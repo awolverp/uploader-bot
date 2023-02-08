@@ -4,7 +4,11 @@ A simple example for telegram uploader bot without any feature. (**Pyrogram**)
 ## Usage
 ```bash
 git clone https://github.com/awolverp/uploader-bot.git
-# Don't forgot environ variables
+cd uploader-bot
+```
+- Don't forget to set environ variables
+
+```bash
 python3 main.py
 ```
 
