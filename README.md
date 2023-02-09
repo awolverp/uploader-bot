@@ -1,6 +1,8 @@
 # Uploader Bot
 A simple example for telegram uploader bot without any feature. (**Pyrogram**)
 
+> How to use file_id?
+
 ## Usage
 ```bash
 git clone https://github.com/awolverp/uploader-bot.git
